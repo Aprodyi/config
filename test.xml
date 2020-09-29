@@ -1,0 +1,5 @@
+<config>
+  <param id="iOSPlatform">
+    <pair id="isMPNetworkingManagerEnabled">true</pair>
+  </param>
+</config>
